@@ -1,2 +1,3 @@
-# homework_bot
-python telegram bot
+# Status_bot
+    python telegram bot. Проект с яндекс практикума разработан на библиотеки python-telegram-bot==13.7.
+Предназначен для проверки статуса домашней работы.
